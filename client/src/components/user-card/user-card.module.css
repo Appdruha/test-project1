@@ -1,0 +1,25 @@
+.card {
+    width: 357px;
+    height: 314px;
+    box-shadow: 0 0 20px 0 #0000001A;
+    border-radius: 16px;
+    padding: 24px;
+}
+
+.infoBox {
+    margin-top: 24px;
+}
+
+.item {
+    display: flex;
+    margin-bottom: 12px;
+}
+
+.item > img {
+    width: 24px;
+    height: 24px;
+}
+
+.item > p {
+    margin-left: 12px;
+}

@@ -1,0 +1,8 @@
+.container {
+    width: 1121px;
+    margin: 64px auto;
+    display: flex;
+    gap: 24px;
+    flex-wrap: wrap;
+    border: 1px solid red;
+}

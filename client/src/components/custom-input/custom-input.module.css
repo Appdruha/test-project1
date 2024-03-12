@@ -1,0 +1,27 @@
+.inputContainer {
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: 48px;
+    border-radius: 24px;
+    border: 1px solid #D4DEFE;
+}
+
+.inputContainer > input {
+    width: 100%;
+    outline: none;
+    border: none;
+    background: none;
+    padding-left: 20px;
+}
+
+.inputContainer > button {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 14px;
+    right: 26px;
+    cursor: pointer;
+    border: none;
+    background: none;
+}

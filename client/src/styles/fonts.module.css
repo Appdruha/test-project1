@@ -1,0 +1,23 @@
+.headingFont {
+    font-family: "ProximaNovaRegular";
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+    color: #262C40;
+}
+
+.tinyFont {
+    font-family: "ProximaNovaRegular";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #8189A3;
+}
+
+.inputFont {
+    font-family: "ProximaNovaRegular";
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #262C40;
+}
